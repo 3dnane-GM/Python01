@@ -2,7 +2,7 @@
 def ft_garden_data():
     class Plant:
         def __init__(plant, name, height, age):
-            plant.name = name
+            plant.name = name.capitalize()
             plant.height = height
             plant.age = age
 
