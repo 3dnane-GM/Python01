@@ -3,22 +3,11 @@
 # ************************************************************************* #
 #                                                                           #
 #                                                      :::      ::::::::    #
-#  ft_garden_intro.py                                :+:      :+:    :+:    #
+#  ft_plant_types.py                                 :+:      :+:    :+:    #
 #                                                  +:+ +:+         +:+      #
 #  By: aezzirar <aezzirar@student.42.fr>         +#+  +:+       +#+         #
 #                                              +#+#+#+#+#+   +#+            #
-#  Created: 2026/02/06 10:33:42 by aezzirar        #+#    #+#               #
-#  Updated: 2026/02/06 12:55:09 by aezzirar        ###   ########.fr        #
+#  Created: 2026/02/06 12:54:26 by aezzirar        #+#    #+#               #
+#  Updated: 2026/02/06 12:54:27 by aezzirar        ###   ########.fr        #
 #                                                                           #
 # ************************************************************************* #
-
-def ft_garden_intro():
-    print("=== Welcome to My Garden ===")
-    print("Plant: Rose")
-    print("Height: 25cm")
-    print("Age: 30 days\n")
-    print("=== End of Program ===")
-
-
-if __name__ == "__main__":
-    ft_garden_intro()
