@@ -8,9 +8,10 @@
 #  By: aezzirar <aezzirar@student.42.fr>         +#+  +:+       +#+         #
 #                                              +#+#+#+#+#+   +#+            #
 #  Created: 2026/02/06 10:34:36 by aezzirar        #+#    #+#               #
-#  Updated: 2026/02/06 12:08:39 by aezzirar        ###   ########.fr        #
+#  Updated: 2026/02/06 12:55:20 by aezzirar        ###   ########.fr        #
 #                                                                           #
 # ************************************************************************* #
+
 def ft_garden_security():
     class Plant:
         def __init__(self, name, height=0, age=0):
